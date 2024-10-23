@@ -1,19 +1,18 @@
 <h1>Adriel</h1> 
-<h4>Hello Word! 👋</h4>
+
+<h4>Hello Word! 👋</h4> 
 
 <h2>Frontend Developer 🧉</h2> 
 
-# Sobre Mi
-<ul>
-  <li>Trabajo en el sector de IT como desarrollador backend en @  <a href="https://www.omint.com.ar">Omint</a> </li>
-  <li>Fuera de mis tareas en Omint realizo proyectos enfocados en el frontend. Principalmente los realizo con React sumandole typescript para mantener un tipado standar en mis proyectos</li>
-  <li>Utilizo figma para los diseños </li>
-  <li>Uso Astro como framework ya me brinda más velocidad al despliegue y cuenta con integraciones dentro del mismo</li>
-  <li>Me gusta especializarme en el desarrollo frontend e ir probando integraciones de novedades o herramientas que van surgiendo y aplicarlas a mis proyectos.
-    Sigo la linea de no querer abarcar TODOS los temas pero si tomo mi tiempo para conocerlos. </li>
-</ul>
+# About Me 
+<ul> 
+  <li>I work in the IT sector as a backend developer at @ <a href="https://www.omint.com. ar">Omint</a> </li> 
+  <li>Outside of my tasks at Omint, I work on frontend-focused projects. I mainly do them with React, adding typescript to maintain standard typing in my projects. </li> 
+  <li>I use figma for designs. </li> <li>I use Astro as a framework, which gives me faster deployment and has integrations within it. </li> 
+  <li>I like to specialize in frontend development and try out integrations of new features or tools that emerge and apply them to my projects. I follow the line of not wanting to cover ALL the topics but I do take my time to get to know them. </li> 
+  
+</ul>#Languages ​​and Tools
 
-# Lenguajes y Herramientas
 <img height="20" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem-700x626.png" /></img>
 <img height="20" src="https://brandslogos.com/wp-content/uploads/images/javascript-logo.png" /></img>
 <img height="20" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/typescript-logo-freelogovectors.net_-400x400.png" /></img>
